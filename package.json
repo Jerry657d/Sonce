@@ -1,24 +1,24 @@
 {
-  "name": "sonce",
+  "name": "maukerder3",
   "version": "1.0.0",
-  "description": "second tea",
+  "description": "erfeed",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jerry657d/Sonce.git"
+    "url": "https://github.com/Meed47/maukerder3.git"
   },
   "dependencies": {
-    "books-_aps_ted45": "^1.0.0",
-    "apktea88n77": "^1.0.0",
+    "vilomade": "^1.0.0",
+    "aps88tea77n": "^1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jerry657d/Sonce/issues"
+    "url": "https://github.com/Meed47/maukerder3/issues"
   },
-  "homepage": "https://github.com/Jerry657d/Sonce#readme"
+  "homepage": "https://github.com/Meed47/maukerder3#readme"
 }
