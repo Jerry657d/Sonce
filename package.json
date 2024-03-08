@@ -1,0 +1,24 @@
+{
+  "name": "sonce",
+  "version": "1.0.0",
+  "description": "second tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jerry657d/Sonce.git"
+  },
+  "dependencies": {
+    "books-_aps_ted45": "^1.0.0",
+    "vilomade": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jerry657d/Sonce/issues"
+  },
+  "homepage": "https://github.com/Jerry657d/Sonce#readme"
+}
